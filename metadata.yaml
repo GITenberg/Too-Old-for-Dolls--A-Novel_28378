@@ -1,0 +1,31 @@
+_repo: Too-Old-for-Dolls--A-Novel_28378
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ludovici, Anthony M. (Anthony Mario)
+    aliases:
+    - Ludovici, Anthony Mario
+    - Ludovici, A. M. (Anthony Mario)
+    - Ludovici, Tony
+    birthdate: 1882
+    deathdate: 1971
+    gutenberg_agent_id: '1830'
+    url: http://www.gutenberg.org/2009/agents/1830
+description: ''
+gutenberg_issued: '2009-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28378'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Young women -- Fiction'
+title: 'Too Old for Dolls: A Novel'
+url: http://www.gutenberg.org/ebooks/28378
